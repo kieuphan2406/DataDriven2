@@ -39,5 +39,9 @@ public class SuiteOneBase extends SuiteBase{
 		}
 		//To report SuiteOne as 'Executed' In SuitesList sheet of TestSuiteList.xls If SuiteToRun = Y.
 		SuiteUtility.WriteResultUtility(FilePath, SheetName, "Skipped/Executed", SuiteName, "Executed");		
-	}		
+	}
+	
+	public void function2() {
+		System.out.println("Function 2");
+	}
 }

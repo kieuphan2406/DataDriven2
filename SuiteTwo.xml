@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SuiteTwo">
+
+
+<test name = "SuiteTwoCaseOne">
+<classes>
+<class name = "com.stta.SuiteTwo.SuiteTwoCaseOne"></class>
+</classes>
+</test>
+
+<test name = "SuiteTwoCaseTwo">
+<classes>
+<class name = "com.stta.SuiteTwo.SuiteTwoCaseTwo"></class>
+</classes>
+</test>
+
+
+
+</suite>
